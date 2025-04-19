@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(11, 10, 22)
+}
+
+.box{
+    border: 3px groove;
+    display: inline-block;
+}
